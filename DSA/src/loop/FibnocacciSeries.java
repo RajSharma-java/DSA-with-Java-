@@ -1,4 +1,4 @@
-package com.loop;
+package loop;
 
 public class FibnocacciSeries
 {

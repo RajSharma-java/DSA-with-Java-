@@ -1,4 +1,4 @@
-package com.loop;
+package loop;
 
 public class PrintNumber1to10
 {

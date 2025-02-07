@@ -1,4 +1,4 @@
-package com.loop;
+package loop;
 
 public class SumOfDigitNumber {
 	public static void main(String[] args) {
